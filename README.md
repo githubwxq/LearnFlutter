@@ -16,8 +16,8 @@
 
 #### 学习目录（demo1/lib/）
 ##### Demo1 - Flutter 目录结构介绍和入口方法
- - Flutter 目录结构介绍    
- - Flutter 入口文件和入口方法 
+ Flutter 目录结构介绍    
+ Flutter 入口文件和入口方法 
 ##### Demo2 - 自定义 Widget、Center 组件、Text 组件
  - Flutter 第一个 Demo Center 组件的使用
  - Flutter 把内容单独抽离成一个组件 
